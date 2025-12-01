@@ -83,7 +83,7 @@
 ---
 
 ### 📬 Contact Me  
-📨 Email → *(you can place your email here)*  
+📨 Email → me@kunalvohra.in | kunalvohra@panicle.tech  
 🌐 Website → **kunalvohra.com**  
 🔗 LinkedIn → **linkedin.com/in/kunal-vohra**
 
