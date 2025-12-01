@@ -3,6 +3,8 @@
   <a href="https://kunalvohra.com">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/kunal-vohra">LinkedIn</a> •
   <a href="https://github.com/vohrakunal">GitHub</a>
+  <a href="https://panicle.tech">Panicle Tech</a>
+  <a href="https://portfolio.panicle.tech">Panicle Portfolio</a>
 </p>
 
 ---
